@@ -9,4 +9,4 @@ ENV/
 .vscode
 
 # images
-.png
+*.png
