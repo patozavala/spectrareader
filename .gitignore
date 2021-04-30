@@ -1,0 +1,12 @@
+# environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# vscode
+.vscode
+
+# images
+.png
