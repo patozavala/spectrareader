@@ -5,6 +5,10 @@ env/
 venv/
 ENV/
 
+# datasets
+datasets/usgslib7/ASCIIdata_splib07a/
+data/
+
 # vscode
 .vscode
 

@@ -6,7 +6,7 @@ Example 1: read a single file from the USGS Spectral Library Version 7 Data.
 spec = readers.ReaderUSGS()
 print(spec.__doc__)
 files = {
-    'reflectance': 'samples/usgs/Actinolite.txt',
+    'Reflectance': 'samples/usgs/Actinolite.txt',
     'bandpass': 'samples/usgs/Bandpass.txt',
     'wavelength': 'samples/usgs/Wavelength.txt'
 }
