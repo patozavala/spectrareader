@@ -109,7 +109,7 @@ class USGSLib7():
 
         return True
 
-    def get_txt_files(self, dataset_path: str) -> list[str]:
+    def get_txt_files(self, dataset_path: str) -> list:
         """
         Delivers a list with all text files into a directory.
         """

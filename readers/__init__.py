@@ -1,2 +1,1 @@
-from .readers import ReaderUSGS
-
+from .readers import SpectraReader

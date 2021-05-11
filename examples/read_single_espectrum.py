@@ -1,4 +1,4 @@
-from spectrareaders import readers
+from readers import readers
 
 """
 Example 1: read a single file from the USGS Spectral Library Version 7 Data.
